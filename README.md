@@ -12,5 +12,5 @@ A banca com os alimentos estão disponíveis com produtos locais: legumes, verdu
 Os clientes sinalizados por pontos chegam até a barraca e através da figura do alimento desejado.
 O jogador deve atender o cliente arrastando o alimento desejado até o círculo representando o cliente.
 
-**Fonte: **
+**Fonte**
 AGÊNCIA GOV. 25 de julho: Dia Internacional da Agricultura Familiar, a base do futuro alimentar. Agência Gov | Via MDA, 25 jul. 2024. Disponível em: https://agenciagov.ebc.com.br/noticias/202407/25-de-julho-dia-internacional-da-agricultura-familiar. Acesso em: 22 jun. 2025.
